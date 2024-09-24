@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Simple-Cli": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
